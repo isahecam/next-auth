@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Build / output
+.next/
+out/
+build/
+
+# Static assets
+public/
+*.svg
+*.png
+*.jpg
+
+# Config / lock files
+.env*
+.next-env.d.ts
